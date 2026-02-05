@@ -1,0 +1,9 @@
+
+{
+  "name": "MultiTenancy SaaS Pro",
+  "description": "A high-performance SaaS dashboard for managing up to 4 distinct tenant websites, featuring AI-powered content generation and site configuration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
